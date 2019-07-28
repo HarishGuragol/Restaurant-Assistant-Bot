@@ -66,7 +66,7 @@ void setup()
       lcd.begin(16, 2);
 }
 
-void SenVal()                                       //Reading Sensor Value
+void SenVal()                                        //Reading Sensor Value
 {
       l1 = analogRead(A1); //l1 for Right Sesnor
       l2 = analogRead(A2); //l2 for Center Sensor
