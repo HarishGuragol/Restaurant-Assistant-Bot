@@ -10,6 +10,7 @@ FireBird V kit
 ENVIRONMENT
 
 The Code is written on Arduino IDE
+Pin number of Arduino Mega is matched with pins on firebird V using the datasheet
 
 CO-AUTHORS
 
